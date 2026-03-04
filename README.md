@@ -32,4 +32,3 @@ Helios OS Platform
 ---
 
 Helios OS explores a layered architecture where infrastructure, visibility frameworks and specialized agents work together to make businesses discoverable and usable in the AI-search era.
-
