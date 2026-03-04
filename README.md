@@ -2,6 +2,9 @@
 ...
 ## Architecture
 ```
+Helios OS is built as a layered system where infrastructure,
+visibility frameworks and operational AI agents work together.
+
 Helios OS Platform
 
         ┌───────────────────────────┐
