@@ -1,7 +1,6 @@
----
-
+# Helios OS
+...
 ## Architecture
-
 ```
 Helios OS Platform
 
